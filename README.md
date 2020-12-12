@@ -1,2 +1,2 @@
 # Collect-files
-Collect txt, xlsx, csv files
+Collect txt, xlsx, csv, json files
